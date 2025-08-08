@@ -1,6 +1,6 @@
 # Impariamo-R
 Deposito di file ed informazioni relativi al  libro **Impariamo-R: un introduzione facile al linguaggio** di Stefano Leonardi
-
+![Copertina](Figure/cover_verde.png)
 
 Se avete commenti, osservazioni, richieste o senalazioni riguardanti il libro scrivete a stefano.leonardi@gmail.com
 
