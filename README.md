@@ -1,5 +1,7 @@
 # Impariamo-R
 Deposito di file ed informazioni relativi al  libro **Impariamo-R: un introduzione facile al linguaggio** di Stefano Leonardi
+
+
 <img src="Figure/cover_verde.png" alt="" width="40%">
 
 
